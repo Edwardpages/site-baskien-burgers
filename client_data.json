@@ -1,0 +1,32 @@
+{
+  "name": "Baskien Burgers",
+  "type": "burger restaurant",
+  "tagline": "Handcrafted Burgers Worth the Drive",
+  "description": "A local burger joint known for juicy smash burgers and crispy fries.",
+  "services": [
+    "Smash Burgers",
+    "Loaded Fries",
+    "Milkshakes",
+    "Catering"
+  ],
+  "primary_color": "#c0392b",
+  "secondary_color": "#922b21",
+  "accent_color": "#f39c12",
+  "phone": "",
+  "email": "",
+  "address": "",
+  "city": "",
+  "founded_year": "",
+  "owner_name": "",
+  "logo_text": "",
+  "extra_notes": "",
+  "client_notes": "",
+  "site_features": [
+    "Photo Gallery",
+    "Testimonials / Reviews",
+    "Opening Hours"
+  ],
+  "site_language": "English (UK)",
+  "inspiration_urls": [],
+  "generated_at": "2026-05-28T07:24:31.878359Z"
+}
